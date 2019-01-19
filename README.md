@@ -1,5 +1,5 @@
                                      
-Project name：Opticcal pulse  sensor
+Project name：Optical pulse  sensor
 
 
 
